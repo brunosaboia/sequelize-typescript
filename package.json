@@ -1,6 +1,6 @@
 {
-  "name": "sequelize-typescript",
-  "version": "0.5.1",
+  "name": "sequelize-typescript-bs",
+  "version": "0.5.2",
   "description": "Decorators and some other extras for sequelize (v3 + v4)",
   "scripts": {
     "build": "tsc --project lib/models/v4 && tsc",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobinBuschmann/sequelize-typescript.git"
+    "url": "git+https://github.com/brunosaboia/sequelize-typescript.git"
   },
   "keywords": [
     "orm",
@@ -33,7 +33,7 @@
     "postgres",
     "mssql"
   ],
-  "author": "Robin Buschmann",
+  "author": "Bruno Saboia",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RobinBuschmann/sequelize-typescript/issues"
